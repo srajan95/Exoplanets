@@ -1,4 +1,6 @@
 # Exoplanets
+# RShiny is also used in this project to make the graphs interactive
+# Planets based on the year of discovery, method of discovery, Kmeans based clustering, Violin Plot are also involved in the analysis
 The dataset exo_data.csv  is imported as a tibble.
 Columns 1, 16, 17, 18, 25 are converted to characters. 
 Columns 2, 14 are converted to factors. 
